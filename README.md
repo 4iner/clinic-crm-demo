@@ -2,7 +2,7 @@
 A public demo for the CRM application
 
 ### Usage
-The application can be accessed from [here](https://d15ju2xcsjey0j.cloudfront.net/).
+The application can be accessed from [https://clinic-app.mufasa.ca/](https://clinic-app.mufasa.ca/).
 The username `Demo` and password `ClinicAppDemo` can be used to access the application as an admin, while credentials `User` and `ClinicAppUser` sign you in as a regular user. The difference between these roles is the admin can view and upload photos to the app, while a regular user can only edit patient/visit data. 
 > **Note: Please allow up to 30 seconds to sign in, as the backend server may require some time to start up, if it has not already.** 
 
